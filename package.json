@@ -1,0 +1,22 @@
+{
+  "name": "joins",
+  "version": "1.0.0",
+  "description": "Implementation of SQL joins on JSON object arrays",
+  "main": "test.coffee",
+  "scripts": {
+    "test": "coffee test.coffee"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avihebbar/jsonJoin.git"
+  },
+  "author": "Avinash Hebbar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avihebbar/jsonJoin/issues"
+  },
+  "homepage": "https://github.com/avihebbar/jsonJoin#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
